@@ -1,8 +1,8 @@
 # Simulador de Algoritmo Genético — Seleção de Projetos do Campus
 
-Atividade Prática de **Inteligência Artificial** (UFPI, período 2026.2).
+Atividade Prática de **Inteligência Artificial**.
 
-**Autores:** _(preencha: nome completo e matrícula de cada integrante, no máximo 3)_
+**Autores:** _Luidge de Sousa, Samuel Lucas Alves Matos_
 
 **Aplicação publicada (GitHub Pages):** _(cole aqui o link)_
 **Repositório:** _(cole aqui o link; o mesmo link está no topo da aplicação)_
