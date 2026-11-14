@@ -4,7 +4,7 @@ Atividade Prática de **Inteligência Artificial**.
 
 **Autores:** _Luidge de Sousa, Samuel Lucas Alves Matos_
 
-**Aplicação publicada (GitHub Pages):** https://samuellucas-hub.github.io/Atividade-Pratica-IA/
+**Aplicação publicada (GitHub Pages):** https://samuellucas-hub.github.io/Algoritmo-Genetico-IA/
 **Repositório:** https://github.com/SamuelLucas-Hub/Atividade-Pratica-IA/tree/Algoritmo-genetico
 
 ## 1. Descrição da solução
