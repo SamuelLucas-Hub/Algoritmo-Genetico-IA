@@ -2,10 +2,10 @@
 
 Atividade Prática de **Inteligência Artificial**.
 
-**Autores:** _Luidge de Sousa, Samuel Lucas Alves Matos_
+**Autores:** Luidge de Sousa Carvalho, Samuel Lucas Alves Matos
 
 **Aplicação publicada (GitHub Pages):** https://samuellucas-hub.github.io/Algoritmo-Genetico-IA/
-**Repositório:** https://github.com/SamuelLucas-Hub/Atividade-Pratica-IA/tree/Algoritmo-genetico
+**Repositório:** https://github.com/SamuelLucas-Hub/Algoritmo-Genetico-IA/tree/Algoritmo-genetico (o código fica no branch `Algoritmo-genetico`)
 
 ## 1. Descrição da solução
 
@@ -114,10 +114,3 @@ Configuração: dados da 6.1; população 20; 50 gerações; cruzamento 80%; mut
 ```bash
 node test.js
 ```
-
-## 6. Publicação no GitHub Pages
-
-1. Crie um repositório **público** e envie todos os arquivos desta pasta.
-2. No repositório: *Settings → Pages → Build and deployment → Deploy from a branch → `main` / raiz → Save*.
-3. Em `index.html`, troque o `href` do link `repoLink` (`https://github.com/SEU-USUARIO/SEU-REPOSITORIO`) pelo endereço real do repositório.
-4. Preencha autores e links no topo deste README.
